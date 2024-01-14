@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Rup29/mobiXpress/static/css/main.a78054e8.css",
+    "main.js": "/Rup29/mobiXpress/static/js/main.c7c90a0e.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Rup29/mobiXpress/static/js/787.d4aba7ab.chunk.js",
+    "static/media/headphone-5.png": "/Rup29/mobiXpress/static/media/headphone-5.ceed56b23a5e05681b4a.png",
+    "static/media/headphone-8.png": "/Rup29/mobiXpress/static/media/headphone-8.910bc191d0c5ab28e00a.png",
+    "static/media/headphone-1.png": "/Rup29/mobiXpress/static/media/headphone-1.5daa1b2120557bf5f95c.png",
+    "static/media/blutooth-4.png": "/Rup29/mobiXpress/static/media/blutooth-4.3468a8ffa9e84e1cd017.png",
+    "static/media/logo.png": "/Rup29/mobiXpress/static/media/logo.9d3bfbb1d06c2761ecf1.png",
+    "static/media/mobile-1.png": "/Rup29/mobiXpress/static/media/mobile-1.582464ab3020d4479174.png",
+    "static/media/watch-9.png": "/Rup29/mobiXpress/static/media/watch-9.4e502d662acc15cca6af.png",
+    "static/media/ipad-1.png": "/Rup29/mobiXpress/static/media/ipad-1.e1cce75bb408ae2bb921.png",
+    "static/media/mobile-5.png": "/Rup29/mobiXpress/static/media/mobile-5.f7fbf128db0668340613.png",
+    "static/media/samsung.png": "/Rup29/mobiXpress/static/media/samsung.f02b62670a685d74632d.png",
+    "static/media/product-banner-1.jpg": "/Rup29/mobiXpress/static/media/product-banner-1.a29302534ea887b2632a.jpg",
+    "static/media/product-banner-2.jpg": "/Rup29/mobiXpress/static/media/product-banner-2.41707ac62d6ba975962a.jpg",
+    "static/media/realmi.png": "/Rup29/mobiXpress/static/media/realmi.2394ee10e24fff5d23f4.png",
+    "static/media/login.jpg": "/Rup29/mobiXpress/static/media/login.ef63a257b36931548cad.jpg",
+    "static/media/nokia.png": "/Rup29/mobiXpress/static/media/nokia.40be1122968dad76d355.png",
+    "static/media/xiaomi.png": "/Rup29/mobiXpress/static/media/xiaomi.4a2a67db8f2639e1c67e.png",
+    "index.html": "/Rup29/mobiXpress/index.html",
+    "main.a78054e8.css.map": "/Rup29/mobiXpress/static/css/main.a78054e8.css.map",
+    "main.c7c90a0e.js.map": "/Rup29/mobiXpress/static/js/main.c7c90a0e.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Rup29/mobiXpress/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a78054e8.css",
+    "static/js/main.c7c90a0e.js"
+  ]
+}
